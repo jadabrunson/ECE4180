@@ -1,3 +1,6 @@
 # ECE4180
 
-Volumetric Display code
+Project Name: Volumetric Display
+Author: Jada Brunson
+
+
