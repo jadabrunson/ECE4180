@@ -45,5 +45,14 @@ I incorported a switch to controll the drainage of the batteries and a voltage r
 
 <img width="406" alt="Screenshot 2024-05-02 at 8 35 45 AM" src="https://github.com/jadabrunson/ECE4180/assets/148473515/3e23a3bc-ea07-4708-a879-5c09b7b7d17d">
 
+Quick Demo:
+
+The illusion looks better in real life and a little further away, but here is a quick demonstration. 
+
+https://github.com/jadabrunson/ECE4180/assets/148473515/86bb5062-701c-4b64-8ebe-6beb53e574be
+
+
+
+
 
 
