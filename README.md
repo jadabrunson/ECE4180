@@ -55,8 +55,9 @@ The illusion looks better in real life and a little further away, but here is a 
 
 https://github.com/jadabrunson/ECE4180/assets/148473515/86bb5062-701c-4b64-8ebe-6beb53e574be
 
-Presentation:
+Presentation: 
 
+https://www.youtube.com/watch?v=ZTAor_0RVa0
 
 
 The wiring:
@@ -66,7 +67,7 @@ The wiring:
 <img width="629" alt="Screenshot 2024-05-05 at 5 46 34 PM" src="https://github.com/jadabrunson/ECE4180/assets/148473515/66fad716-175e-4d51-9d26-bdad6a1651ec">
 
 
-Code:
+Code(Note):
 I imported the NRFL01P and WS2812 libraries for mbed
 
 
