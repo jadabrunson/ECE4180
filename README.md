@@ -9,8 +9,7 @@ Project Desciption: The goal of this project was the create a volumetric display
 I utilized a motor, 3 3.7 volt lithium  batties connected in series, 2 NRF24L01+ Wireless Transceiver Modules, a 8*8 WS2812 led matrix,a custom 3d printed led panel mount, and 2 mbed lpc 1768 devices. The two rf transrecievers communicate with each other to determine when to display the hologram. It essentially acts as it's remote controller. The motor moves at a speed of up to 3000 rpm at 12v, which is controllable by using the other mbed for a motor driver and remote controlling the mbed closely, or using a lower voltage battery. It still pperates at 5 volts with a speed decrease porportional to the amount of voltage lost. 
 
 
-I first began the project by designing the 3d print to house the batteries, pcb, mbed, and the led matrix.
-
+The CAD:
 
 
 There are a few different parts of the assembly. First there is the axel coupler which connects the axel of the motor to the assembly of the volumetric display assembly. Inside of the volumetric display assembly, there is a housing for the mbed, the breadboard, and the RFnsensor, as well as a housing for the led array. All of the electronics are on the side of the led array that does not have lights and the led array array is coincidence to the axis of rotation of the motor. A nut fits inside of the coupler to tighten the volumetric display to the motor.
@@ -38,4 +37,7 @@ I produced 24 frames then denoised each png file for every frame
 It was then converted into C code using pixel app
 
 https://github.com/jadabrunson/ECE4180/assets/148473515/671c98a7-9c38-4bdb-9ca4-acf11138791f
+
+
+
 
