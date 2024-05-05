@@ -12,7 +12,7 @@ I utilized a motor, 3 3.7 volt lithium  batties connected in series, 2 NRF24L01+
 The CAD:
 
 
-There are a few different parts of the assembly. First there is the axel coupler which connects the axel of the motor to the assembly of the volumetric display assembly. Inside of the volumetric display assembly, there is a housing for the mbed, the breadboard, and the RFnsensor, as well as a housing for the led array. All of the electronics are on the side of the led array that does not have lights and the led array array is coincidence to the axis of rotation of the motor. A nut fits inside of the coupler to tighten the volumetric display to the motor.
+There are a few different parts of the assembly. First there is the axle coupler which connects the axle of the motor to the assembly of the volumetric display assembly. Inside of the volumetric display assembly, there is a housing for the mbed, the breadboard, and the RF sensor, as well as a housing for the led array. All of the electronics are on the side of the led array that does not have lights and the led array array are coincidence to the axis of rotation of the motor. A nut fits inside of the coupler to tighten the volumetric display to the motor. Design wise, led matrixes consume alot of and it is difficult to keep objects in place that are spinning at such a high rpm. Therefore, the design process was an iterative one.
 
 <img width="229" alt="Screenshot 2024-05-05 at 4 39 58 PM" src="https://github.com/jadabrunson/ECE4180/assets/148473515/5ff1ab89-31e2-47d7-8b3e-9002237f21ef">
 
