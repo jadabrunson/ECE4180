@@ -47,9 +47,24 @@ I incorported a switch to controll the drainage of the batteries and a voltage r
 
 Quick Demo:
 
-The illusion looks better in real life and a little further away, but here is a quick demonstration. 
+At a Distance: https://www.youtube.com/watch?si=Fr5DQOO1MmJqfRbI&v=MRW04NsfVeo&feature=youtu.be
+
+The illusion looks better in real life and a little further away, but here is a quick demonstration. Up close and on camera it looks more like streaks of light. In this demo a 9volt power supply was used for the motor so it is running at roughly 2200 rpm.
 
 https://github.com/jadabrunson/ECE4180/assets/148473515/86bb5062-701c-4b64-8ebe-6beb53e574be
+
+Presentation:
+
+
+
+The wiring:
+
+<img width="633" alt="Screenshot 2024-05-05 at 5 46 54 PM" src="https://github.com/jadabrunson/ECE4180/assets/148473515/c6d451ea-2c10-410b-961f-5f4a852b3573">
+
+<img width="629" alt="Screenshot 2024-05-05 at 5 46 34 PM" src="https://github.com/jadabrunson/ECE4180/assets/148473515/66fad716-175e-4d51-9d26-bdad6a1651ec">
+
+
+
 
 
 
