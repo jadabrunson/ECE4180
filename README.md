@@ -13,8 +13,10 @@ I first began the project by designing the 3d print to house the batteries, pcb,
 
 <img width="229" alt="Screenshot 2024-05-05 at 4 39 58 PM" src="https://github.com/jadabrunson/ECE4180/assets/148473515/5ff1ab89-31e2-47d7-8b3e-9002237f21ef">
 
+There are a few different parts of the assembly. First there is the axel coupler which connects the axel of the motor to the assembly of the volumetric display assembly. Inside of the volumetric display assembly, there is a housing for the mbed, the breadboard, and the RFnsensor, as well as a housing for the led array. All of the electronics are on the side of the led array that does not have lights and the led array array is coincidence to the axis of rotation of the motor. A nut fits inside of the coupler to tighten the volumetric display to the motor.
 
-<img width="225" alt="Screenshot 2024-05-05 at 4 41 31 PM" src="https://github.com/jadabrunson/ECE4180/assets/148473515/8f8ac089-3007-4111-b9b0-f5fc09ddc027">
+
+<img width="247" alt="Screenshot 2024-05-05 at 4 41 56 PM" src="https://github.com/jadabrunson/ECE4180/assets/148473515/a1bb21b5-1872-44b4-83c8-dd7435f8c4c3">
 
 
 
