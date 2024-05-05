@@ -20,7 +20,7 @@ There are a few different parts of the assembly. First there is the axel coupler
 
 
 
-I then animated the cube to display.
+The Animation:
 
 
 A Cube Animation was created using blender
