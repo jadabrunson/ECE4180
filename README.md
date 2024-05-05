@@ -66,7 +66,8 @@ The wiring:
 <img width="629" alt="Screenshot 2024-05-05 at 5 46 34 PM" src="https://github.com/jadabrunson/ECE4180/assets/148473515/66fad716-175e-4d51-9d26-bdad6a1651ec">
 
 
-
+Code:
+I imported the NRFL01P and WS2812 libraries for mbed
 
 
 
