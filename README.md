@@ -57,7 +57,6 @@ More detail(ignore the mess): https://www.youtube.com/watch?v=sLwHgkXNvYw
 
 The illusion looks better in real life and a little further away, but here is a quick demonstration. Up close and on camera it looks more like streaks of light. In this demo a 9 volt power supply was used for the motor so it is running at roughly 2200 rpm.
 
-https://github.com/jadabrunson/ECE4180/assets/148473515/86bb5062-701c-4b64-8ebe-6beb53e574be
 
 Presentation: 
 
