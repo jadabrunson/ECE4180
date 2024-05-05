@@ -47,6 +47,10 @@ I incorported a switch to controll the drainage of the batteries and a voltage r
 
 Quick Demo:
 
+
+https://github.com/jadabrunson/ECE4180/assets/148473515/813ad307-2dc9-4a01-9525-b4388433d07f
+
+
 At a Distance: https://www.youtube.com/watch?si=Fr5DQOO1MmJqfRbI&v=MRW04NsfVeo&feature=youtu.be
 
 More detail(ignore the mess): https://www.youtube.com/watch?v=sLwHgkXNvYw
