@@ -39,6 +39,9 @@ It was then converted into C code using pixel app
 https://github.com/jadabrunson/ECE4180/assets/148473515/671c98a7-9c38-4bdb-9ca4-acf11138791f
 
 
+Physical Implementation:
+
+I incorported a switch to controll the drainage of the batteries and a voltage regulator for the led matrix. I cut down the protobroad to fit inside a 1*1 inch slot in on the assembly.
 
 <img width="406" alt="Screenshot 2024-05-02 at 8 35 45 AM" src="https://github.com/jadabrunson/ECE4180/assets/148473515/3e23a3bc-ea07-4708-a879-5c09b7b7d17d">
 
