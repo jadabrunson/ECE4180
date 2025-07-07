@@ -41,7 +41,8 @@ https://ieeexplore.ieee.org/document/10161963
 <img width="1028" alt="Screenshot 2025-07-06 at 11 05 11 PM" src="https://github.com/user-attachments/assets/baab3684-0d58-477a-93c1-df110cfee107" />
 
 
-[ECE EE T Resume Su 25.pdf](https://github.com/user-attachments/files/21094675/ECE.EE.T.Resume.Su.25.pdf)
+[ECE EE T Resume Su 25.pdf](https://github.com/user-attachments/files/21094693/ECE.EE.T.Resume.Su.25.pdf)
+
 
 
 
