@@ -59,7 +59,7 @@ My primary career goal is to work at the intersection of software systems, embed
 <img width="489" alt="Screenshot 2025-07-06 at 11 16 48 PM" src="https://github.com/user-attachments/assets/6fe14e3d-ff99-4305-a836-ab8a2572659e" />
 
 
-# APP
+# App
 
 Project Name: MadeByMe
 
