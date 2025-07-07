@@ -49,7 +49,7 @@ https://ieeexplore.ieee.org/document/10161963
 
 # Career Goals
 
-My primary career goal is to work at the intersection of software systems, embedded platforms, and cloud infrastructure—building tools and technologies that are scalable, reliable, and grounded in real-world application.
+My primary career goal is to work at the intersection of software systems, embedded platforms, and cloud infrastructure—building tools and technologies that are scalable, reliable, and grounded in real-world application. I will be graduating in December of 2025 and hope to enter into full time opportunities.
 
 
 # Technical Projects
