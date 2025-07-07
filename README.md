@@ -10,7 +10,7 @@
 
 
 
-Hi. I’m Jada Brunson, a fifth-year Computer Engineering student at Georgia Tech, focused on building systems that are efficient, reliable, and grounded in real-world application. My academic and professional experience spans embedded systems, software engineering, data processing, and machine learning. I’m particularly interested in how hardware and software come together to create systems that interact with the world—whether that’s through robotics, distributed services, mobile platforms, or intelligent automation.
+Hi. I’m Jada Brunson, a fifth-year Computer Engineering student at Georgia Tech, focused on building systems that are efficient, reliable, and grounded in real-world application. I've been born and raised in Georgia my whole life and would like to work in the state upon graduation as well. Some of my hobbies outside of school in-clude dancing and playing with my cat Misty. My academic and professional experience spans embedded systems, software engineering, data processing, and machine learning. I’m particularly interested in how hardware and software come together to create systems that interact with the world—whether that’s through robotics, distributed services, mobile platforms, or intelligent automation.
 
 At this stage in my education, I’ve worked across a range of platforms and disciplines. My technical foundation is built on coursework and hands-on experience in C++, Python, Java, and embedded C, with exposure to systems like AWS, Docker, Firebase, and various microcontrollers. What drives my work is a focus on integration—getting different layers of a system to communicate efficiently, scaling functionality through modular design, and ensuring robustness under uncertainty.
 
