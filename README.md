@@ -2,10 +2,37 @@
 
 
 
+# About Me + Resume
+
+Hi. I’m Jada Brunson, a fifth-year Computer Engineering student at Georgia Tech, focused on building systems that are efficient, reliable, and grounded in real-world application. My academic and professional experience spans embedded systems, software engineering, data processing, and machine learning. I’m particularly interested in how hardware and software come together to create systems that interact with the world—whether that’s through robotics, distributed services, mobile platforms, or intelligent automation.
+
+At this stage in my education, I’ve worked across a range of platforms and disciplines. My technical foundation is built on coursework and hands-on experience in C++, Python, Java, and embedded C, with exposure to systems like AWS, Docker, Firebase, and various microcontrollers. What drives my work is a focus on integration—getting different layers of a system to communicate efficiently, scaling functionality through modular design, and ensuring robustness under uncertainty.
+
+One of the most defining experiences of my time at Georgia Tech has been my undergraduate research in machine learning and optimization. As part of a team, I contributed to a project focused on model robustness for inverse problems, specifically in the domain of image denoising. Our work involved developing an adversarial training pipeline where one model generated perturbations and another was trained to resist them. We used this iterative training strategy to build a denoiser that could handle input distortions not seen during initial training. The project not only introduced me to adversarial machine learning and neural architecture design, but also reinforced the importance of system resilience—an idea that’s central to many of my interests in networking, robotics, and embedded design. The research culminated in a co-authored IEEE publication and presentation abroad, giving me the opportunity to communicate technical findings in an academic setting.
+
+Beyond research, I’ve applied my skills in real-world engineering environments through internships and team-based development projects. During my time as a Software Test and Automation Intern at Ciena, I created Python-based automation tools to streamline manual testing and improve coverage in network validation pipelines. Working on optical networking systems required both precision and adaptability. I designed integration tests for system-level features, interfaced with SDKs and command-line tools, and maintained automated environments capable of verifying compatibility across evolving product stacks. The experience gave me a deeper appreciation for systems testing—not just as a validation step, but as a critical part of the development lifecycle that informs both performance and design.
+
+My experience in embedded systems comes from both coursework and applied projects. One notable example was the development of a custom RPG game on the Mbed platform. The game featured real-time event handling, dynamic rendering, and a full quest system with NPC interactions. I implemented memory-efficient storage using hash tables and optimized lookup operations to reduce latency during gameplay. Hardware interaction was central to the experience: player inputs were captured via physical controls, and output was managed through an LCD and serial debug tools. I handled everything from collision detection to boss logic, which taught me how to balance complexity, responsiveness, and system constraints on a resource-limited platform.
+
+In a separate embedded systems project, I worked on Melodia—a robotic learning tool that used touch sensors, a display, and a microcontroller to create a responsive user experience. I developed the software architecture in C++/Arduino to handle sensor input, feedback loops, and power management. The project involved debugging across hardware and software layers, integrating real-time data processing with UI responsiveness. This type of work aligns closely with my core interest: designing interactive systems that merge the physical and digital in efficient and meaningful ways.
+
+I’ve also built software at the application layer, particularly in full-stack and mobile development. In a student-led start-up project, I built a cloud-integrated mobile app that incorporated Firebase Authentication, Cloud Storage, and the Google Vision API. I implemented user account management and real-time analytics, built RESTful APIs for backend data handling, and used Stripe for subscription monetization. The project required balancing front-end UI performance with backend reliability and gave me an end-to-end perspective on application development—from system architecture to deployment and testing.
+
+Across all of these experiences, a consistent thread has been a focus on reliability, system integration, and user-centered design. Whether debugging a robotic controller or optimizing a machine learning model, I prioritize clarity, efficiency, and technical rigor. I’m drawn to problems that require careful coordination between components—whether they’re hardware, software, or data pipelines—and I enjoy working in environments where iteration, testing, and improvement are part of the daily workflow.
+
+Looking forward, I’m interested in opportunities where I can continue working on system-level challenges—particularly in areas like cloud infrastructure, embedded applications, and intelligent automation. I’m also exploring how robust machine learning models can be deployed in resource-constrained environments, and how distributed systems can be made more reliable through better architecture and testing. I want to continue building things that function under real-world constraints, scale effectively, and deliver value beyond the technical novelty.
+
+This website is a space for me to document that journey—highlighting the research, projects, and systems I’ve worked on and the technical problems I’ve helped solve. It’s not a complete picture, but it reflects where I’ve invested time and effort and where I hope to grow next. Whether in a research lab, on a product team, or in a startup environment, I aim to bring strong engineering discipline, curiosity, and adaptability to everything I build.
 
 
+# Career Goals
+
+My primary career goal is to work at the intersection of software systems, embedded platforms, and cloud infrastructure—building tools and technologies that are scalable, reliable, and grounded in real-world application.
 
 
+# Technical Projects
+
+# APP
 
 Project Name: MadeByMe
 
