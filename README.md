@@ -1,4 +1,27 @@
-# ECE4180
+
+
+
+
+
+
+
+
+
+Project Name: MadeByMe
+
+Authors: Jada Brunson+ team
+
+Project Description: An app for sharing meals with friends and gameifying the home cooking process
+
+
+https://drive.google.com/file/d/1iv_xWLRWGm4-7Q8P_mKL4a7Rg7NOj-SG/view?usp=sharing
+
+
+
+
+
+
+# Volumetric Display
 
 Project Name: Volumetric Display
 
