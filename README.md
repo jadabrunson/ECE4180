@@ -4,7 +4,9 @@
 
 # About Me + Resume
 
+
 <img width="630" alt="Screenshot 2025-07-06 at 11 04 09 PM" src="https://github.com/user-attachments/assets/bace6f97-c9d2-4626-bab0-f5cb6180eaef" />
+
 
 
 Hi. I’m Jada Brunson, a fifth-year Computer Engineering student at Georgia Tech, focused on building systems that are efficient, reliable, and grounded in real-world application. My academic and professional experience spans embedded systems, software engineering, data processing, and machine learning. I’m particularly interested in how hardware and software come together to create systems that interact with the world—whether that’s through robotics, distributed services, mobile platforms, or intelligent automation.
@@ -27,12 +29,19 @@ Looking forward, I’m interested in opportunities where I can continue working 
 
 This website is a space for me to document that journey—highlighting the research, projects, and systems I’ve worked on and the technical problems I’ve helped solve. It’s not a complete picture, but it reflects where I’ve invested time and effort and where I hope to grow next. Whether in a research lab, on a product team, or in a startup environment, I aim to bring strong engineering discipline, curiosity, and adaptability to everything I build.
 
+
 <img width="579" alt="Screenshot 2025-07-06 at 11 03 31 PM" src="https://github.com/user-attachments/assets/51af530c-3120-43a9-864a-a40574e16553" />
 
 https://ieeexplore.ieee.org/document/10161963
+
 <img width="564" alt="Screenshot 2025-07-06 at 11 03 48 PM" src="https://github.com/user-attachments/assets/b82ae7a7-0d6a-4add-b168-d4e3173de7bf" />
 
+https://ieeexplore.ieee.org/document/10161963
+
 <img width="1028" alt="Screenshot 2025-07-06 at 11 05 11 PM" src="https://github.com/user-attachments/assets/baab3684-0d58-477a-93c1-df110cfee107" />
+
+
+[ECE EE T Resume Su 25.pdf](https://github.com/user-attachments/files/21094675/ECE.EE.T.Resume.Su.25.pdf)
 
 
 
